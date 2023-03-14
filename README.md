@@ -25,10 +25,15 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## API Usage
-API-Video:[Registration][Login][Logout].
+API-Video:[Registration][Login][Logout][GPT3 Chatbot].
 
 
 
 https://user-images.githubusercontent.com/64993553/224692148-1a64cb95-01ad-4703-ade3-b01e0b0a4e08.mov
+
+
+
+https://user-images.githubusercontent.com/64993553/225006364-1453234c-bbd6-47a0-bb8f-e3047793f107.mov
+
 
 
